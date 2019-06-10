@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaoTechApi", "HaoTechApi\HaoTechApi.csproj", "{C73873FE-8583-4622-8F50-8F3D1327EC50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{E06F1C41-22DE-488F-A45C-95E721C5FF6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaoTechApiTest", "HaoTechApiTest\HaoTechApiTest.csproj", "{CE8F6C04-53F3-47F2-A77B-51984295D467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C73873FE-8583-4622-8F50-8F3D1327EC50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73873FE-8583-4622-8F50-8F3D1327EC50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73873FE-8583-4622-8F50-8F3D1327EC50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73873FE-8583-4622-8F50-8F3D1327EC50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8F6C04-53F3-47F2-A77B-51984295D467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8F6C04-53F3-47F2-A77B-51984295D467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8F6C04-53F3-47F2-A77B-51984295D467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8F6C04-53F3-47F2-A77B-51984295D467}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CE8F6C04-53F3-47F2-A77B-51984295D467} = {E06F1C41-22DE-488F-A45C-95E721C5FF6C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E863759C-CEDE-4DAA-AB25-CEAC7DFD019B}
+	EndGlobalSection
+EndGlobal
